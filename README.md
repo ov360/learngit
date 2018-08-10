@@ -1,2 +1,0 @@
-# learngit
-just lesrngit
